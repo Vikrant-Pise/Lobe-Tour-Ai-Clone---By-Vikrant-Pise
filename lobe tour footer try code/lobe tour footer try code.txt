@@ -1,0 +1,42 @@
+<footer class="footer">
+      <div class="main-container">
+        <div class="col-h-2">lobe</div>
+        <img class="img-3" src="img/lobe.png" alt="img" />
+        
+          <div class="main-col-1">
+          <div class="col-1">A product by Microsoft.</div>
+          <div class="col-1">All rights reserved.</div>
+          <div class="col-1">&copy;Microsoft 2021</div>
+        </div>
+
+        <div class="col-column">
+          <div class="col-h">About</div>
+          <div class="col-2 col-hover">Download</div>
+          <div class="col-2 col-hover">Overview</div>
+          <div class="col-2 col-hover">Examples</div>
+          <div class="col-2 col-hover">Blog</div>
+        </div>
+
+        <div class="col-column">
+          <div class="col-h">General</div>
+          <div class="col-2 col-hover">Notice</div>
+          <div class="col-2 col-hover">License</div>
+          <div class="col-2 col-hover">Press Inquiry</div>
+          <div class="col-2 col-hover">Press Images</div>
+        </div>
+
+        <div class="col-column">
+          <div class="col-h">Resources</div>
+          <div class="col-2 col-hover">Help</div>
+          <div class="col-2 col-hover">Tour</div>
+          <div class="col-2 col-hover">Contact</div>
+          <div class="col-2 col-hover">Privacy</div>
+        </div>
+
+        <div class="col-column-shocial">
+          <div class="social"><i class="fa-solid fa-comment"></i></div>
+          <div class="social"><i class="fa-brands fa-twitter"></i></div>
+          <div class="social"><i class="fa-brands fa-youtube"></i></div>
+        </div>
+      </div>
+    </footer>
